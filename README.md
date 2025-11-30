@@ -8,9 +8,11 @@
   <a href="https://github.com/Jabin-G"><img src="https://img.shields.io/badge/Portfolio-%2300C9FF.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jabingeorge/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jabin.george611@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:jabin.george611@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </p>
 💡 *“Crafting logic and elegance in every line of code.”*
 
