@@ -8,9 +8,16 @@
   <a href="https://github.com/Jabin-G"><img src="https://img.shields.io/badge/Portfolio-%2300C9FF.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jabingeorge/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jabin.george611@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.instagram.com/hazard_________/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+  <a href="https://www.facebook.com/jebin.jebin.10485546" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://x.com/Hazard01111" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
 </p>
 
 </p>
