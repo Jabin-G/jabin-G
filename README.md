@@ -21,7 +21,7 @@
 </p>
 
 </p>
-💡 *“Crafting logic and elegance in every line of code.”*
+Crafting logic and elegance in every line of code.
 
 ---
 
